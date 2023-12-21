@@ -8,11 +8,13 @@ function App() {
   let data=[
     {
       product:"Fancy Product",
-      price:"40.00-$80.00"
+      price:"40.00-$80.00",
+      old:"60.00-$100"
     },
     {
       product:"Special Item",
-      price:"18.00"
+      price:"18.00",
+      old:"30.00"
     },
     {
       product:"Sale Item",
@@ -20,23 +22,28 @@ function App() {
     },
     {
       product:"Popular Item",
-      price:"40.00"
+      price:"40.00",
+      old:"50.00"
     },
     {
       product:"Sale Item",
-      price:"25.00"
+      price:"25.00",
+      old:"30.00"
     },
     {
       product:"Fancy Product",
-      price:"120.00 - $280.00"
+      price:"120.00 - $280.00",
+      old:"150.00-$300"
     },
     {
       product:"Special Item",
-      price:"18.00"
+      price:"18.00",
+      old:"30.00"
     },
     {
       product:"Popular Item",
-      price:"40.00"
+      price:"40.00",
+      old:"60.00"
     },
   ]
 

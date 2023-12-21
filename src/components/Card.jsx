@@ -16,7 +16,7 @@ function Card({count,setCount,data}){
                                   
                                     <h5 className="fw-bolder">{data.product}</h5>
                                     
-                                    <span className="text-muted text-decoration-line-through">$50.00</span>
+                                    <span className="text-muted text-decoration-line-through">{data.old}</span>$
                                    {data.price}
                                 </div>
                             </div>
