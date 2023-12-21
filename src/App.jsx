@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import Card from './components/card'
+import Card from './components/Card'
 import Header from './components/Header'
 import TopBar from './components/TopBar'
 import Base from './components/Base'
